@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5E1AF2</color>
+    <color name="colorPrimaryDark">#4916B6</color>
+    <color name="colorAccent">#37D39F</color>
+    <color name="active">#E3FFEA</color>
+    <color name="inactive">#FFE3E3</color>
+    <color name="dark_active">#38DD7A</color>
+    <color name="dark_inactive">#E43838</color>
+    <color name="background">#5E1AF2</color>
+    <color name="cardBackground">#F7F7F7</color>
+    <color name="black">#1F1F1F</color>
+    <color name="light_gray">#F1F1F1</color>
+</resources>

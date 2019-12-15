@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Wifi Gratuito C5</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_map">Mapa</string>
+    <string name="title_about_nav">Acerca de</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="wifi_active">WIFI ACTIVO</string>
+    <string name="wifi_inactive">SIN WIFI</string>
+    <string name="colonia">Colonia</string>
+    <string name="alcaldia">Alcaldia</string>
+    <string name="boton">Boton</string>
+    <string name="altavoz">Altavoz</string>
+    <string name="poste">Poste</string>
+    <string name="title_detail">Detalle</string>
+    <string name="showInMap">Ver en mapa</string>
+    <string name="title_about">Internet gratuito en la CDMX</string>
+    <string name="about_subtitle">Información sobre los postes y pilares que cuentan con WiFi gratuito desde el Portal de datos de la Ciudad de México.</string>
+    <string name="about_shor_description">Ubicación de puntos de acceso gratuito a internet WiFi vía infraestructura C5 (actuales y próximos)</string>
+    <string name="long_description">En esta base de datos se pueden consultar las ubicaciones de los postes del Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano (C5) de la Ciudad de México que cuentan con cámaras de seguridad, botón de pánico, altavoz, el tipo de poste y la georreferenciación; así como el estatus actual de la conexión a internet inalámbrico.</string>
+</resources>
