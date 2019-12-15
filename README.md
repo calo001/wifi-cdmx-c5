@@ -19,5 +19,5 @@ Información sobre los postes y pilares que cuentan con WiFi gratuito desde el P
 </p>
 
 <p align="center">
-  <a href="https://datos.cdmx.gob.mx">Visita https://datos.cdmx.gob.mx para mas informaci�n</a>
+  <a href="https://datos.cdmx.gob.mx">Visita https://datos.cdmx.gob.mx para mas información</a>
 </p>
